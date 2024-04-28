@@ -1,0 +1,17 @@
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\bin\Debug\net8.0-windows\calcuC.exe
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\bin\Debug\net8.0-windows\calcuC.deps.json
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\bin\Debug\net8.0-windows\calcuC.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\bin\Debug\net8.0-windows\calcuC.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\bin\Debug\net8.0-windows\calcuC.pdb
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.Form1.resources
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.Properties.Resources.resources
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.csproj.GenerateResource.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\refint\calcuC.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.pdb
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\calcuC.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\calcuC\calcuC\obj\Debug\net8.0-windows\ref\calcuC.dll

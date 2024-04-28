@@ -1,0 +1,17 @@
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.Form1.resources
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.Properties.Resources.resources
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.csproj.GenerateResource.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\bin\Debug\net8.0-windows\CUOTAS.exe
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\bin\Debug\net8.0-windows\CUOTAS.deps.json
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\bin\Debug\net8.0-windows\CUOTAS.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\bin\Debug\net8.0-windows\CUOTAS.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\bin\Debug\net8.0-windows\CUOTAS.pdb
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\refint\CUOTAS.dll
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.pdb
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\CUOTAS.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\DEdsafio\CUOTAS\CUOTAS\obj\Debug\net8.0-windows\ref\CUOTAS.dll
